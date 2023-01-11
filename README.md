@@ -1,7 +1,7 @@
-#陽ノ下ひの乃(Hinono H.)
+Hinono H. (陽ノ下ひの乃)
 
 歌う作曲系VTuber<br>
-VTuber / Composer / Singer / DJ(2022.08/)<br>
+VTuber / Composer / Singer / DJ(2022.07/28~)<br>
 Rust beginner(since: 2023.01/08～)
 
 ・DJ (MixCloud)<br>
